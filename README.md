@@ -40,3 +40,13 @@ Billing Amount also did not show statistically significant differences across th
 ## Technologies
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
+
+## Dataset
+
+The dataset was obtained from the publicly available Kaggle Healthcare Dataset.
+
+[View the original dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+
+## Kaggle Notebook
+
+[View the interactive Kaggle notebook](https://www.kaggle.com/code/mertcanyalcin/healthcare-los-and-billing-analysis)
